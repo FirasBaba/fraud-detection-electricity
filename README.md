@@ -43,11 +43,12 @@ Utilizing the client’s billing history, the challenge aimed to detect and reco
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/fraud-detection-ai-hack-tunisia.git
+git clone https://github.com/FirasBaba/fraud-detection-electricity
 ```
 2. Navigate to the repository:
 ```
-cd fraud-detection-ai-hack-tunisia
+cd fraud-detection-electricity
+cd working
 ```
 3. Run the necessary scripts according to your needs:
 ```
