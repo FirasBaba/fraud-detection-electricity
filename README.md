@@ -25,6 +25,8 @@ AI Hack Tunisia 2019 is the largest Hackathon on Artificial Intelligence and Mac
 The challenge addressed by the winning solution was proposed by the Tunisian Company of Electricity and Gas (STEG). As a public and non-administrative company, STEG is responsible for delivering electricity and gas across Tunisia. The company faced significant financial losses, approximately 200 million Tunisian Dinars, due to fraudulent manipulations of meters by consumers.
 
 ### Competition Description
+#### Competition Link
+https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge
 
 #### Problem Statement
 
